@@ -11,33 +11,23 @@
         <filefilterlist>
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
-                <filteritem type="filepath" name="third_party/llvm-10.0/llvm/include/llvm/Support/LICENSE.TXT"
-                    desc="" />
-                <filteritem type="filepath" name="third_party/SPIRV-Tools/BUILD.bazel"
-                    desc="" />
-                <filteritem type="filepath" name="third_party/llvm-subzero/LICENSE.TXT"
-                    desc="" />
-                <filteritem type="filepath" name="third_party/subzero/LICENSE.TXT"
-                    desc="" />
-                <filteritem type="filepath" name="third_party/subzero/bloat/README.chromium"
-                    desc="" />
-                <filteritem type="filepath" name="third_party/llvm-10.0/Android.bp"
-                    desc="" />
-                <filteritem type="filepath" name="third_party/SPIRV-Headers/BUILD.bazel"
-                    desc="" />
-                <filteritem type="filepath" name="README.OpenSource"
-                    desc="" />
-                <filteritem type="filepath" name="fo_FO/README.chromium"
-                    desc="" />
-                <filteritem type="filepath" name="af_ZA/README.chromium"
+                <filteritem type="filepath" name="pl_PL.dic_delta"
                     desc="" />
                 <filteritem type="filepath" name="COPYING.MIT"
                     desc="" />
-                <filteritem type="filepath" name="pl_PL.dic_delta"
+                <filteritem type="filepath" name="af_ZA/README.chromium"
+                    desc="" />
+                <filteritem type="filepath" name="fo_FO/README.chromium"
+                    desc="" />
+                <filteritem type="filepath" name="README.OpenSource"
                     desc="" />
                 </filefilter>
                 <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
+                    desc="" />
+                <filteritem type="filepath" name=".*bdic"
+                    desc="" />
+                <filteritem type="filepath" name=".*delta"
                     desc="" />
             </filefilter> 
         </filefilterlist>
