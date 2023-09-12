@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_hunspell_dictionaries",                   # 上游开源软件名全称
+        "Name": "hunspell_dictionaries",                   # 上游开源软件名全称
         "License": "MPL-1.1"        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE",       # 许可证所在文件路径
         "Version Number": "18e09b9197a3b1d771c077c530d1a4ebad04c167",
@@ -8,7 +8,7 @@
         "Description": "第三方软件hunspell_dictionaries"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_hunspell_dictionaries",                   # 上游开源软件名全称
+        "Name": "hunspell_dictionaries",                   # 上游开源软件名全称
         "License": "LGPLStyleLicense"      # 上游开源软件中包含的许可证信息
         "License File": "LICENSE",       # 许可证所在文件路径
         "Version Number": "18e09b9197a3b1d771c077c530d1a4ebad04c167",
@@ -16,7 +16,7 @@
         "Description": "第三方软件hunspell_dictionaries"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_hunspell_dictionaries",                   # 上游开源软件名全称
+        "Name": "hunspell_dictionaries",                   # 上游开源软件名全称
         "License": "LGPL-3.0+"        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE",       # 许可证所在文件路径
         "Version Number": "18e09b9197a3b1d771c077c530d1a4ebad04c167",
