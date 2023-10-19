@@ -82,9 +82,9 @@ used to filter file path.
                 <filteritem type="filename" name="*.dic_delta" desc="chromium原生二进制文件,不会使用" />
             </filefilter>
             <filefilter name="defaultFilter" desc="File is not used">
-                <filteritem type="filepath" name="COPYING" desc="该文件涉及LGPL-3.0+,经确定不会使用" />
-                <filteritem type="filepath" name="COPYING.LESSER" desc="该文件涉及LGPL-3.0+,经确认不会使用" />
-                <filteritem type="filepath" name="LICENSE" desc="该文件涉及LGPL-3.0+,经确认不会使用" />
+                <filteritem type="filepath" name="COPYING" desc="经确认，该文件不会使用" />
+                <filteritem type="filepath" name="COPYING.LESSER" desc="经确认，该文件不会使用" />
+                <filteritem type="filepath" name="LICENSE" desc="经确认，该文件不会使用" />
             </filefilter>
         </filefilterlist>
         <licensematcherlist>
