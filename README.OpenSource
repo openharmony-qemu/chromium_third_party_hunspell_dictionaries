@@ -1,26 +1,11 @@
 [
     {
-        "Name": "hunspell_dictionaries",                   # 上游开源软件名全称
-        "License": "MPL-1.1"        # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE",       # 许可证所在文件路径
+        "Name": "hunspell_dictionaries",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
         "Version Number": "18e09b9197a3b1d771c077c530d1a4ebad04c167",
-        "Upstream URL": "https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git@18e09b9197a3b1d771c077c530d1a4ebad04c167",   # 上游软件包发布地址
-        "Description": "第三方软件hunspell_dictionaries"           # 开源软件功能描述
-    },
-    {
-        "Name": "hunspell_dictionaries",                   # 上游开源软件名全称
-        "License": "LGPLStyleLicense"      # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE",       # 许可证所在文件路径
-        "Version Number": "18e09b9197a3b1d771c077c530d1a4ebad04c167",
-        "Upstream URL": "https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git@18e09b9197a3b1d771c077c530d1a4ebad04c167",   # 上游软件包发布地址
-        "Description": "第三方软件hunspell_dictionaries"           # 开源软件功能描述
-    },
-    {
-        "Name": "hunspell_dictionaries",                   # 上游开源软件名全称
-        "License": "LGPL-3.0+"        # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE",       # 许可证所在文件路径
-        "Version Number": "18e09b9197a3b1d771c077c530d1a4ebad04c167",
-        "Upstream URL": "https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git@18e09b9197a3b1d771c077c530d1a4ebad04c167",   # 上游软件包发布地址
-        "Description": "第三方软件hunspell_dictionaries"           # 开源软件功能描述
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git@18e09b9197a3b1d771c077c530d1a4ebad04c167",
+        "Description": "第三方软件hunspell_dictionaries，一个为拥有多态和复杂组合词的语言所涉及的拼写检查器"
     }
 ]
