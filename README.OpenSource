@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "hunspell_dictionaries",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "18e09b9197a3b1d771c077c530d1a4ebad04c167",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromium/deps/hunspell_dictionaries.git@18e09b9197a3b1d771c077c530d1a4ebad04c167",
+        "Description": "第三方软件hunspell_dictionaries，一个为拥有多态和复杂组合词的语言所涉及的拼写检查器"
+    }
+]
